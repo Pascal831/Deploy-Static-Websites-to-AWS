@@ -86,7 +86,7 @@ Visit the static website:
 
 ## 🧾 Final Notes
 
-📌 Screenshots and detailed steps are available in the [PDF documentation](Deploying%20mystaticwebsite.pdf)
+📌 Screenshots and detailed steps are available in the [PDF documentation](https://github.com/Pascal831/Deploy-Static-Websites-to-AWS/blob/main/Deploying%20mystaticwebsite.pdf)
 
 📁 Repository structure:
 ```
