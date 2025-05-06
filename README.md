@@ -19,7 +19,7 @@ This project demonstrates how to deploy a static website using Amazon Web Servic
 ## 🛠️ Prerequisites
 
 - An active **AWS account**
-- [Download the starter website code](https://drive.google.com/open?id=15vQ7-utH7wBJzdAX3eDmO9ls35J5_sEQ)
+- [Download the starter website code](https://github.com/Pascal831/Deploy-Static-Websites-to-AWS/blob/main/udacity-starter-website.zip)
 
 ---
 
